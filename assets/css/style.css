@@ -279,6 +279,12 @@ h6 {
 }
 
 @media (max-width: 768px) {
+  #hero {
+  width: 100%;
+  height: unset;
+  background: url("../img/my-bg.jpg") top center;
+  background-size: cover;
+}
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
