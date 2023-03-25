@@ -285,6 +285,9 @@ h6 {
   background: url("../img/my-bg.jpg") top center;
   background-size: cover;
 }
+#hero:before {
+  bottom: 380px;
+}
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
